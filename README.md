@@ -28,9 +28,9 @@ You can customize the website by editing the CSS in `css/style.css`.
 
 
 ## Features
-Smooth scrolling navigation
-Animated floating elements
-Responsive design for all screen sizes
+  - Smooth scrolling navigation
+  - Animated floating elements
+  - Responsive design for all screen sizes
 
 
 Now, you can push this project to a Git repository, deploy it on GitHub Pages, or any other hosting platform for easy access and sharing.
