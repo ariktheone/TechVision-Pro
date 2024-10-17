@@ -2,7 +2,7 @@
 
 A modern, visually stunning website template built using HTML, CSS, and JavaScript. Includes floating animations, parallax effects, and smooth scrolling.
 
-### 🌐 ***Live Website*** | *[click here- render version](https://techvision-pro.onrender.com)*  |*[click here- githubpages version](https://ariktheone.github.io/TechVision-Pro/)*|
+### |🌐 ***Live Website*** | *[click here- render version](https://techvision-pro.onrender.com)*  | *[click here- githubpages version](https://ariktheone.github.io/TechVision-Pro/)* |
 
 ## Setup
 
