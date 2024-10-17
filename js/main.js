@@ -1,4 +1,3 @@
-// Generate floating elements
 const floatingElements = document.getElementById('floatingElements');
 for (let i = 0; i < 20; i++) {
     const element = document.createElement('div');
@@ -61,7 +60,7 @@ document.addEventListener('mousemove', (e) => {
         const cardCenterY = rect.top + rect.height / 2;
         const angleX = (cardCenterY - e.clientY) * 0.01;
         const angleY = (e.clientX - cardCenterX) * 0.01;
-
+        
         card.style.transform = `perspective(1000px) rotateX(${angleX}deg) rotateY(${angleY}deg)`;
     });
 });
